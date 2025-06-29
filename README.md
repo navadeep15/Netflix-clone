@@ -5,3 +5,6 @@ This project is a simplified front-end clone of Netflix. It aims to replicate th
 
 1) Clone the repository to your local machine using the command git clone
 2) Navigate to the cloned repository and run the netflix.html file
+
+
+Live site: https://navadeep15.github.io/Netflix-clone/
